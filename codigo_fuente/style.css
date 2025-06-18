@@ -1,0 +1,36 @@
+/********** CONTENIDO ARREGLOS GENERALES ************/
+.cuerpo {
+  background-color: #f6f6f6;
+}
+
+.franjacolor {
+  background: #0D6EFD;
+}
+
+.franjaalto1 {
+  height: 3em;
+}
+
+.franjaalto2 {
+  height: 2em;
+}
+
+.textofranja {
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+}
+
+p, h1, h2, h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.titulo {
+  text-decoration: none;   
+}
+
+.borde {
+  border: solid 1px black;
+}
